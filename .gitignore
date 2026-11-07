@@ -1,0 +1,11 @@
+_bin/
+build/
+_build/
+.vscode/
+.DS_Store
+**/.DS_Store
+*.o
+*.obj
+*.d
+__pycache__/
+*.py[cod]
